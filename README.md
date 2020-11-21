@@ -25,7 +25,7 @@ Instagram hacks: Track unfollowers, Increase your followers, Download Stories, e
 ### Usage:
 ```
 git clone https://github.com/kuzuri-03/Foinsta
-cd inshackle
+cd Foinsta
 bash Foinsta.sh
 ```
 
