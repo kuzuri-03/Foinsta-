@@ -1,4 +1,4 @@
-# Foinsta-
+# Foinsta
 To increase followers for your Instagram
 
 # Foinsta v1.0
